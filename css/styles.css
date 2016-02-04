@@ -1,0 +1,29 @@
+.definitions {
+  display: none;
+}
+
+.terms {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.terms:hover {
+  text-decoration: underline;
+}
+
+.definitions {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.definitions:hover {
+  text-decoration: underline;
+}
+
+#initially_hidden {
+  display: none;
+}
+
+.def {
+  display: none;
+}
